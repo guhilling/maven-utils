@@ -1,4 +1,4 @@
-maven-utils [![Build Status](https://travis-ci.org/guhilling/maven-utils.svg?branch=master)](https://travis-ci.org/guhilling/maven-utils)
+maven-utils [![Build Status](https://travis-ci.org/guhilling/maven-utils.svg?branch=master)](https://travis-ci.org/guhilling/maven-utils) [![Coverage Status](https://coveralls.io/repos/guhilling/maven-utils/badge.svg)](https://coveralls.io/r/guhilling/maven-utils)
 ========
 
 Utilities for getting maven version of package during runtime.
